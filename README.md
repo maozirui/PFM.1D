@@ -4,7 +4,7 @@ Phase Field modeling in 1D case
 !!!!! IMPORTANT
  <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
 
-By using this freeware, you are agree to the following:    
+# By using this freeware, you are agree to the following:    
    1. you are free to copy and redistribute the material in any medium or format.
    2. you are free to remix, transform, and build upon the material for any purpose, even commercially.
    3. you must provide the name of the creator and attribution parties, a copyright notice, a license notice, a  
@@ -14,14 +14,14 @@ By using this freeware, you are agree to the following:
  Before use, please read the License carefully.
 
  
-Introduction:   
+# Introduction:   
 This script is developed to simulate the phase field evolution phenomenon governed by the Allen-Cahn equation and Cahn-Hillard equation in 1D case. The attached is Matlab GUI freeware. 
 
-Author Information:   
+# Author Information:   
 Zirui Mao | Department of Material Science and Engineering | TAMU
 Date last modified: March., 10th, 2020
 
-How to use this freeware:   
+# How to use this freeware:   
 1. Download the documents 'Diffusion.m' and 'Diffusion.fig'; 
 2. Open the 'Difussion.m' with Matlab.              
 3. Before running it, please ensure the two documents locate in the same folder.                                               
