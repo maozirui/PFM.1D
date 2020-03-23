@@ -34,3 +34,5 @@ Date last modified: March., 10th, 2020
 9. Click the 'Stop' button in GUI to stop the calculation at any time;
 10. An animation will be saved in the document-located folder after each time of calculation. Please rename it immediately otherwiseit will be overwritten.
 
+# Demo
+A demo animation is attached to show how the freeware works.
