@@ -18,7 +18,7 @@ Phase Field modeling in 1D case
 This script is developed to simulate the phase field evolution phenomenon governed by the Allen-Cahn equation and Cahn-Hillard equation in 1D case. The attached is Matlab GUI freeware. 
 
 # Author Information:   
-Zirui Mao | Department of Material Science and Engineering | TAMU
+Zirui Mao | Department of Material Science and Engineering | TAMU \\
 Date last modified: March., 10th, 2020
 
 # How to use this freeware:   
